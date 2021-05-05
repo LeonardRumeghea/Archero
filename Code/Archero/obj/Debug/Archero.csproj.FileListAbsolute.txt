@@ -1,0 +1,62 @@
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.csprojAssemblyReference.cache
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.Form_Login.resources
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.Properties.Resources.resources
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.csproj.GenerateResource.cache
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.csproj.CoreCompileInputs.cache
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\bin\Debug\Database_Accounts.mdf
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\bin\Debug\Database_Accounts_log.ldf
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\bin\Debug\Archero.exe.config
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\bin\Debug\Archero.exe
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\bin\Debug\Archero.pdb
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.Form_DoneRegister.resources
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.Form_Game.resources
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.Form_GameOver.resources
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.Form_Lobby.resources
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.Form_Register.resources
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.exe
+C:\Users\Leonard\Desktop\New folder\Archero\Archero\obj\Debug\Archero.pdb
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\bin\Debug\Archero.exe.config
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\bin\Debug\Archero.exe
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\bin\Debug\Archero.pdb
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.csprojAssemblyReference.cache
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.Form_Login.resources
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.Form_DoneRegister.resources
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.Form_Game.resources
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.Form_GameOver.resources
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.Form_Lobby.resources
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.Form_Register.resources
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.Properties.Resources.resources
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.csproj.GenerateResource.cache
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.csproj.CoreCompileInputs.cache
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.exe
+C:\Users\Leonard\Desktop\Atestat - Archero\Archero\Archero\obj\Debug\Archero.pdb
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\bin\Debug\Archero.exe.config
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\bin\Debug\Archero.exe
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\bin\Debug\Archero.pdb
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.csprojAssemblyReference.cache
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.Form_Login.resources
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.Form_DoneRegister.resources
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.Form_Game.resources
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.Form_GameOver.resources
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.Form_Lobby.resources
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.Form_Register.resources
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.Properties.Resources.resources
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.csproj.GenerateResource.cache
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.csproj.CoreCompileInputs.cache
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.exe
+C:\Users\Leonard\Desktop\Atestat - Archero - Copy\Archero\Archero\obj\Debug\Archero.pdb
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\bin\Debug\Archero.exe.config
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\bin\Debug\Archero.exe
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\bin\Debug\Archero.pdb
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.csprojAssemblyReference.cache
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.Form_Login.resources
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.Form_DoneRegister.resources
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.Form_Game.resources
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.Form_GameOver.resources
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.Form_Lobby.resources
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.Form_Register.resources
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.Properties.Resources.resources
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.csproj.GenerateResource.cache
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.exe
+C:\Users\leona\Desktop\Rumeghea Leonard\Games\Archero\Archero\Archero\obj\Debug\Archero.pdb
